@@ -1,0 +1,9 @@
+-git push origin main // Atualizar arquivo remoto de acordo com o arquivo local
+
+-git add . // Por todos os arquivos em staged
+
+-git commit -m "Comentario" // Comitar codigo com comentario
+
+-git clone url // clonar codigo da nuvem
+
+-git status // verificar status do git
